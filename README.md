@@ -1,16 +1,28 @@
-## Hi there 👋
+## Software Engineer, Ssol 👋
 
-<!--
-**ssolfa/ssolfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▎ **About me 🐕**
 
-Here are some ideas to get you started:
+`2025.07.28 ~ Present` Bucketplace Software Engineer, Frontend, Space AI (Intern)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`2024.04 ~ 2025.08` Yourssu Frontend (Member)
+
+`2024.09 ~ 2024.10` Open Source Contribution Academy (Git utilization and standard framework MSA mentee)
+
+`2024.04 ~ 2024.08` UMC 6th Web (Member)
+
+`2023.10.09 ~ 2024.09` Google Developer Students Clubs Soongsil 23-24 Web/Mobile (Member)
+
+`2022.03.02 ~ Present` Soongsil Univ. Department of Software
+
+
+▎ **Publications 📝**
+
+**AI-Based Bus Number Recognition System for the Visually Impaired Using the Seoul Metropolitan Government Open API**
+- 한국콘텐츠학회논문지, Vol.25 No.10, October 2025
+- [Paper](https://doi.org/10.5392/JKCA.2025.25.10.030)
+
+
+▎ **Info ☎️**
+
+[![Email](https://img.shields.io/badge/zenasol0210@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zenasol0210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-SolmiKim-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/solmi-kim-1740622bb/)
