@@ -18,7 +18,7 @@
 ▎ **Publications 📝**
 
 **AI-Based Bus Number Recognition System for the Visually Impaired Using the Seoul Metropolitan Government Open API**
-- 한국콘텐츠학회논문지, Vol.25 No.10, October 2025
+- Journal of the Korea Contents Association, Vol.25 No.10, October 2025
 - [Paper](https://doi.org/10.5392/JKCA.2025.25.10.030)
 
 
