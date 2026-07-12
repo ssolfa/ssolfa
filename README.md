@@ -1,26 +1,29 @@
 ## Software Engineer, Ssol 👋
 
+◉ ︵ ◉
+<br/>
+(っ ॑꒳ ॑c) > **[dev.ssolfa.com](https://dev.ssolfa.com)**
+<br/>
+〰️🔵
+
 ▎ **About me 🐕**
 
-`2025.07.28 ~ Present` Bucketplace Software Engineer, Frontend, Space AI (Intern)
+`2025.07.28 ~` Bucketplace Software Engineer, Space AI
 
-`2024.04 ~ 2025.08` [Yourssu](https://yourssu.com/) Frontend (Member)
+`2024.04 ~ 2025.08` [Yourssu](https://yourssu.com/) Frontend
 
-`2024.09 ~ 2024.10` Open Source Contribution Academy (Git utilization and standard framework MSA mentee)
+`2024.09 ~ 2024.10` [Open Source Contribution Academy](https://www.contribution.ac/) (MSA)
 
-`2024.04 ~ 2024.08` [UMC](https://umc.makeus.in/) 6th Web (Member)
+`2024.04 ~ 2024.08` [UMC](https://umc.makeus.in/) 6th Web
 
-`2023.10.09 ~ 2024.09` [Google Developer Students Clubs Soongsil](https://gdg.community.dev/) 23-24 Web/Mobile (Member)
+`2023.10 ~ 2024.09` [GDSC Soongsil](https://gdg.community.dev/) Web/Mobile
 
-`2022.03.02 ~ Present` Soongsil Univ. Department of Software
-
+`2022.03 ~` Soongsil Univ. Department of Software
 
 ▎ **Publications 📝**
 
-**AI-Based Bus Number Recognition System for the Visually Impaired Using the Seoul Metropolitan Government Open API**
-- Journal of the Korea Contents Association, Vol.25 No.10, October 2025
-- [Paper](https://doi.org/10.5392/JKCA.2025.25.10.030)
-
+**AI-Based Bus Number Recognition System for the Visually Impaired**
+- Journal of the Korea Contents Association, Vol.25 No.10, Oct 2025 · [Paper](https://doi.org/10.5392/JKCA.2025.25.10.030)
 
 ▎ **Info ☎️**
 
